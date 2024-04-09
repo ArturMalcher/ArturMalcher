@@ -38,8 +38,8 @@
 <center>
 <p>
   <a href="https://github.com/ArturMalcher">
-    <img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api?username=ArturMalcher&show_icons=true&theme=transparent&hide_title=true&text_color=ffff&hide_border=true&include_all_commits=true&count_private=true"/>
-    <img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArturMalcher&layout=compact&langs_count=7&theme=transparent&hide_title=true&text_color=ffff&hide_border=true"/>
+    <img loading="lazy" height="130em" src="https://github-readme-stats.vercel.app/api?username=ArturMalcher&show_icons=true&theme=transparent&hide_title=true&text_color=ffff&hide_border=true&include_all_commits=true&count_private=true"/>
+    <img loading="lazy" height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArturMalcher&layout=compact&langs_count=7&theme=transparent&hide_title=true&text_color=ffff&hide_border=true"/>
   </a>
 </p>
 </center>
