@@ -1,3 +1,7 @@
+<img src="https://media.licdn.com/dms/image/D4E16AQEVFKjXBPJMcg/profile-displaybackgroundimage-shrink_350_1400/0/1706769157379?e=1718236800&v=beta&t=caw9z1Or64JVNw6wbtN5tXF4A1yu3WjC-G3hqnS9ni8"  />
+
+###
+
 #    Hello, I'm Artur Malcher ;)
 >[!IMPORTANT]
 >## About Me
