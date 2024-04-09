@@ -7,7 +7,7 @@
 
 >[!NOTE]
 >## Skills
->- Python <img align="right" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHd2ZmswZnhjb2Rzd29vaTh4ZzZwNDcxZTdvM2UwYTRxMDVrenZ2ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/V0CPh5VcjAcJERfdUT/giphy.gif"  />
+>- Python <img align="right" height="150" src="images/giphy.gif"  />
 >- Django framework
 >- Web Programming
 >- Game Creation with Unity
@@ -58,3 +58,10 @@
   </a>
 </div>
 
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/ArturMalcher/ArturMalcher/output/snake.svg" alt="Snake animation" />
+
+###
