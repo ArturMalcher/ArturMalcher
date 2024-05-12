@@ -4,12 +4,12 @@
   <p> 
     <h1> Hello, I'm Artur Malcher ;)
       <div align="right">
-      <a href="mailto:arturmatosmalcherdesousa@gmail.com" target="_blank" style="text-decoration: none;">
-        <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-      </a>
-      <a href="https://www.linkedin.com/in/arturmalcher" target="_blank" style="text-decoration: none;">
-        <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-      </a>
+        <a href="mailto:arturmatosmalcherdesousa@gmail.com" target="_blank" style="text-decoration: none;">
+          <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+        </a>
+        <a href="https://www.linkedin.com/in/arturmalcher" target="_blank" style="text-decoration: none;">
+          <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+        /a>
       </div>
     </h1> 
   </p>
@@ -69,4 +69,4 @@
   </center>
 </details>
 
-<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats"/>
+<img src="https://github.com/ArturMalcher/ArturMalcher/images/Bottom.svg" alt="Github Stats"/>
