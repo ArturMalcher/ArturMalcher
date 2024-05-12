@@ -17,7 +17,7 @@
 
 ## About Me
     I'm an IT Technician graduated from IFPA and a Computing enthusiast. 
-    I have experience in web programming, app development, automation with Python, and game creation with Unity. 
+    I have experience in web programming, app development, Python, and game creation with Unity. 
     I also have technical knowledge of Logical Programming Reasoning, I'm a fast learner and self-taught. 
     In addition, I have notions of analysis, development, and prototyping of systems.
 <div align="center">
@@ -62,8 +62,8 @@
   <center>
   <p>
     <a href="https://github.com/ArturMalcher">
-      <img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api?username=ArturMalcher&show_icons=true&theme=transparent&hide_title=true&text_color=ffff&hide_border=true&include_all_commits=true&count_private=true"/>
-      <img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArturMalcher&layout=compact&langs_count=7&theme=transparent&hide_title=true&text_color=ffff&hide_border=true"/>
+      <img loading="lazy" height="120em" src="https://github-readme-stats.vercel.app/api?username=ArturMalcher&show_icons=true&theme=transparent&hide_title=true&text_color=ffff&hide_border=true&include_all_commits=true&count_private=true"/>
+      <img loading="lazy" height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArturMalcher&layout=compact&langs_count=7&theme=transparent&hide_title=true&text_color=ffff&hide_border=true"/>
     </a>
   </p>
   </center>
