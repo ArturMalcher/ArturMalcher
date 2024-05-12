@@ -69,4 +69,4 @@
   </center>
 </details>
 
-<img src="https://github.com/ArturMalcher/ArturMalcher/images/Bottom.svg" alt="Github Stats"/>
+<img src="images/Bottom.svg" alt="Github Stats"/>
